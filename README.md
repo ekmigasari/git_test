@@ -1,0 +1,1 @@
+This is Migas first git project!
